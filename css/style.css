@@ -672,9 +672,9 @@ body {
 	display: flex;
 	align-items: center;
 }
-/* .modal-policy-span {
+.modal-policy-span {
 	display: inline-flex;
-} */
+}
 
 .modal-policy-text .modal-policy-span {
 	border-radius: 2px;
